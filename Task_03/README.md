@@ -60,9 +60,3 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 * The model successfully predicts customer subscription behavior
 * Certain features like **contact type, previous outcomes, and campaign duration** have strong influence
 * Decision Tree provides easy interpretability of decision rules
-
-## 🚀 Future Improvements
-
-* Use advanced models (Random Forest, XGBoost)
-* Perform hyperparameter tuning
-* Deploy model as a web application
