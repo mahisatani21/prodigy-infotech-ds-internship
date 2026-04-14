@@ -1,7 +1,5 @@
 # 🚦 Traffic Accident Data Analysis & Visualization
 
-## 📌 Task-05: Prodigy InfoTech Internship
-
 ### 📖 Project Overview
 
 This project focuses on analyzing traffic accident data to identify key patterns related to **road conditions**, **weather**, and **time of day**. The goal is to uncover insights that can help improve road safety and reduce accident occurrences.
